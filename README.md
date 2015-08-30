@@ -1,2 +1,14 @@
-# hello-world
-My first repository in GitHup
+<html>
+<head>
+<title> Nada Zaky </title>
+</head>
+<body>
+<h1 style="background-color:gray"> Nada Website </h1>
+<p style="font-size: 25px; color:red"> My name is Nada Zaky.</p>
+<p style="font-size: 25px"> I am interested in studying Human Resources and i am the HR manager at ENACTUS Fayoum NGO.</p>
+<p style="font-size: 25px">I like drawing, reading and learning different languages.</p>
+<a href="http://www.google.com">My favorite Website</a>
+<br/>
+<img src="12.jpg"  style="width:304px;height:228px;">
+</body>
+</html>
